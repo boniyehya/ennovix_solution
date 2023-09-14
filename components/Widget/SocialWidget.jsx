@@ -5,7 +5,7 @@ import Link from 'next/link';
 export default function SocialWidget() {
   return (
     <Div className="cs-social_btns cs-style1">
-      <Link href="/https://www.linkedin.com/company/ennovix-et/" className="cs-center">
+      <Link href="https://www.linkedin.com/company/ennovix-et/" className="cs-center">
         <Icon icon="fa6-brands:linkedin-in" />
       </Link>
       <Link href="/" className="cs-center">
