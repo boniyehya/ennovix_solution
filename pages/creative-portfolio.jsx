@@ -68,7 +68,7 @@ export default function CreativePortfolio() {
       <Layout>
         {/* Start Hero Section */}
         <Hero3
-          title="innovix Creative <br />Portfolio"
+          title="ennovix Creative <br />Portfolio"
           btnLink="contact"
           btnText={`Let's talk`}
           socialLinksHeading="Follow Us"

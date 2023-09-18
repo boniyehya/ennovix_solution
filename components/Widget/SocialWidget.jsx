@@ -12,7 +12,7 @@ export default function SocialWidget() {
         <Icon icon="fa6-brands:twitter" />
       </Link>
       <Link href="/" className="cs-center">
-        <Icon icon="fa6-brands:youtube" />
+        <Icon icon="fa6-brands:facebook" />
       </Link>
       <Link href="/" className="cs-center">
         <Icon icon="fa6-brands:instagram" />

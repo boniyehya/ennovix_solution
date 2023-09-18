@@ -78,7 +78,53 @@ export default function Home() {
           {/* services={context.services} */}
 
         </Div>
-        {/* End Services Section */}
+        {/* End Services Section */} 
+         {/* Start Why Choose Section */}
+         <Spacing lg="100" md="80" />
+        <Div className="container">
+          <Div className="row">
+            <Div className="col-xl-5 col-lg-6">
+              <Div className="cs-image_layer cs-style1">
+                <Div className="cs-image_layer_in">
+                  <img
+                    src="/images/ab home.png"
+                    alt="About"
+                    className="w-100 cs-radius_15"
+                  />
+                </Div>
+              </Div>
+              <Spacing lg="0" md="40" />
+            </Div>
+            <Div className="col-xl-5 offset-xl-1 col-lg-6">
+              <SectionHeading
+                title="Helping Your Success Through Digital"
+                subtitle="About Us"
+              >
+                <Spacing lg="30" md="20" />
+                <p className="cs-m0">
+                Ennovix is a technology company offering a wide range of services, 
+                including web development, app development, graphics design, 
+                UI/UX development, branding, network installation, and digital
+                marketing. With our expertise and innovative solutions, we help
+                 businesses establish a strong online presence, create captivating 
+                user experiences, and drive growth. Partner with Ennovix to unlock
+                 the full potential of technology and achieve your business objectives.
+                </p>
+                <Spacing lg="15" md="15" />
+                <p className="cs-m0">
+                When you choose Ennovix, you are choosing a reliable partner who is
+                committed to your success, delivers innovative solutions, and provides
+                exceptional customer service. Contact us today to embark on a
+                technology journey that empowers your business for growth and achievement.
+                </p>
+                <Spacing lg="30" md="30" />
+                <Div className="cs-separator cs-accent_bg"></Div>
+                <Spacing lg="25" md="0" />
+              </SectionHeading>
+            </Div>
+          </Div>
+        </Div>
+        {/* End Why Choose Section */}
 
         {/* Start Team Section */}
         <Spacing lg="145" md="80" />
@@ -91,8 +137,8 @@ export default function Home() {
           <Spacing lg="85" md="45" />
           <TeamSlider />
         </Div>
-        <Spacing lg="150" md="80" />
-        {/* End Team Section */}
+        <Spacing lg="150" md="80" /> 
+        {/* End Team Section */} 
 
 
         {/* Start Portfolio Section */}

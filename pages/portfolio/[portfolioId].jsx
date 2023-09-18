@@ -117,7 +117,7 @@ export default function PortfolioDetails() {
         </Div>
         <Spacing lg="145" md="80" />
         <Cta
-          title="agency@innovix.com"
+          title="agency@ennovix.com"
           bgSrc="/images/cta_bg_2.jpeg"
           variant="rounded-0"
         />
