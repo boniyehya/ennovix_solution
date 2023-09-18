@@ -61,7 +61,7 @@ export default function TeamPage() {
       memberSocial: {
         linkedin: '/',
         twitter: '/',
-        youtube: '/',
+        instagram: '/',
         facebook: '/',
       },
     },
