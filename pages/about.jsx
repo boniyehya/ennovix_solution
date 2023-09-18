@@ -72,15 +72,7 @@ export default function About() {
                  marketers stays up-to-date with the latest industry trends and best
                  practices, enabling us to deliver solutions that are not only visually 
                  stunning but also highly functional and user-friendly. <br/>
-                 At Ennovix, we believe in building long-term partnerships. Our goal is to
-                 become an extension of your team, supporting you in achieving your
-                 business objectives and staying ahead of the competition. We pride
-                 ourselves on our agility, flexibility, and ability to adapt to your evolving
-                 needs, ensuring that our solutions continue to deliver value as your
-                 business grows.<br/>
-                 We invite you to explore the possibilities with Ennovix and experience the
-                 power of technology for your business. Contact us today to discuss how
-                 we can collaborate to drive your digital success.
+                 
 
                 </p>
                 <Spacing lg="30" md="30" />
@@ -90,7 +82,7 @@ export default function About() {
             </Div>
             <Div className="col-lg-5 offset-xl-2">
               <img
-                src="/images/about_img_1.png"
+                src="/images/abt.png"
                 alt="About"
                 className="w-100 cs-radius_15"
               />
@@ -105,11 +97,15 @@ export default function About() {
               <Spacing lg="25" md="25" />
             </Div>
             <Div className="col-lg-5">
-              <img
-                src="/images/about_img_2.png"
-                alt="About"
-                className="w-100 cs-radius_15"
-              />
+             <p>At Ennovix, we believe in building long-term partnerships. Our goal is to
+                 become an extension of your team, supporting you in achieving your
+                 business objectives and staying ahead of the competition. We pride
+                 ourselves on our agility, flexibility, and ability to adapt to your evolving
+                 needs, ensuring that our solutions continue to deliver value as your
+                 business grows.<br/>
+                 We invite you to explore the possibilities with Ennovix and experience the
+                 power of technology for your business. Contact us today to discuss how
+                 we can collaborate to drive your digital success.</p>
               <Spacing lg="25" md="25" />
             </Div>
           </Div>

@@ -66,7 +66,7 @@ export default function ServiceDetails() {
         <Spacing lg="120" md="50" />
         <Div className="container">
           <Div className="row align-items-center">
-            <Div className="col-xl-5 col-lg-6">
+            <Div className="col-lg-5 offset-xl-2">
               <Div className="cs-radius_15 cs-shine_hover_1">
                 <img
                   src="/images/app_development.png"
