@@ -24,7 +24,7 @@ export default function ContactInfoWidget({ withIcon, title }) {
           ) : (
             ""
           )}
-          infotech@innovix.com
+          infotech@ennovix.com
         </li>
         <li>
           {withIcon ? (

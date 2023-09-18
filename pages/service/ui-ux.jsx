@@ -41,7 +41,7 @@ export default function ServiceDetails() {
               <IconBox
                 icon="/images/icons/service_icon_1.svg"
                 title="Sketching"
-                subtitle="Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium also a doloremque laudantium, totam remain beatae vitae dictaro enim ipsam sunt explicabo."
+                subtitle="Ennovix designers often start by sketching out rough ideas on paper or digitally. Sketching allows them to quickly explore different layout possibilities, user flows, and visual concepts. It's a creative brainstorming process that helps generate initial design concepts."
               />
               <Spacing lg="30" md="30" />
             </Div>
@@ -49,7 +49,7 @@ export default function ServiceDetails() {
               <IconBox
                 icon="/images/icons/service_icon_2.svg"
                 title="Wireframing"
-                subtitle="Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium also a doloremque laudantium, totam remain beatae vitae dictaro enim ipsam sunt explicabo."
+                subtitle="Ennovix designers move on to wireframing. Wireframes are low-fidelity representations of the website or application's structure, layout, and content placement. They focus on the overall information architecture, user flow, and hierarchy of elements, without delving into specific visual details. Wireframes act as a blueprint for the design and serve as a guide for further development."
               />
               <Spacing lg="30" md="30" />
             </Div>
@@ -57,7 +57,7 @@ export default function ServiceDetails() {
               <IconBox
                 icon="/images/icons/service_icon_3.svg"
                 title="Prototyping"
-                subtitle="Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium also a doloremque laudantium, totam remain beatae vitae dictaro enim ipsam sunt explicabo."
+                subtitle="Ennovix designers create interactive prototypes. Prototypes are more detailed representations of the final design, allowing stakeholders to experience the navigation, interactions, and functionality of the website or application. Prototyping helps identify usability issues, gather feedback from users, and make informed design decisions before moving on to the development phase."
               />
               <Spacing lg="30" md="30" />
             </Div>
@@ -82,18 +82,28 @@ export default function ServiceDetails() {
               </h2>
               <Spacing lg="50" md="30" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut
-                labore voluptas provident consequuntur neque accusantium vitae
-                quod possimus tempore eius ipsum id non ratione rerum saepe
-                laborum, fuga eveniet ad.
+              UI/UX (User Interface/User Experience) design can benefit you in several ways:<br/>
+              Enhanced User Satisfaction: 
+              A well-designed UI/UX creates a positive user experience, making it easier and more enjoyable for users to
+              navigate and interact with your website or application. This leads to increased user satisfaction and a higher
+              likelihood of repeat visits and conversions.<br/>
+              Brand Differentiation: A unique and memorable UI/UX design helps differentiate your brand from competitors.
+              Consistent branding elements, cohesive visual aesthetics, and a distinct user experience can leave a lasting
+              impression on users, increasing brand recognition and fostering a strong brand identity.<br/>
+              Increased Trust and Credibility: A well-designed UI/UX instills trust and credibility in your brand.
+              Users perceive a professional, polished, and user-friendly interface as a reflection of a trustworthy
+              organization. Positive user experiences can build trust and encourage users to engage further with your brand.
+
               </p>
               <h2 className="cs-font_50 cs-m0">Why Choose Ennovix?</h2>
               <Spacing lg="35" md="30" />
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-                sed consectetur, esse placeat officia harum quod provident,
-                eligendi delectus est natus inventore unde amet culpa molestiae
-                in explicabo! Consequuntur, esse!
+              Ennovix stands out in UI/UX design due to our expertise, user-centric approach, customized solutions,
+              seamless integration with development, result-oriented focus, collaboration, reliability, and ongoing support.
+              With a skilled team of designers, Ennovix creates visually appealing and intuitive user interfaces that align 
+              with your goals and resonate with target audiences. We prioritize client collaboration, timely delivery,
+              and ongoing support to ensure that our UI/UX designs drive positive user experiences and contribute to
+               business success.
               </p>
             </Div>
           </Div>

@@ -36,8 +36,8 @@ export default function Footer({ copyrightText, logoSrc, logoAlt, text }) {
       href: "/service/digital_marketing",
     },
     {
-      title: "App development",
-      href: "/service/app",
+      title: "Branding",
+      href: "/service/branding",
     },
   ];
 
@@ -51,7 +51,7 @@ export default function Footer({ copyrightText, logoSrc, logoAlt, text }) {
                 <TextWidget
                   logoSrc="/images/logo.png"
                   logoAlt="Logo"
-                  text="Welcome to innovix sed ut perspiciae omunde omnis iste natus error sitort voluptatem accusantium."
+                  text="Welcome aboard Ennovix! Prepare to immerse yourself in a dynamic and fast-paced environment where innovation thrives. We're delighted to have you on our team, and together, we'll push the boundaries of what's possible."
                 />
                 <SocialWidget />
               </Div>
@@ -70,8 +70,8 @@ export default function Footer({ copyrightText, logoSrc, logoAlt, text }) {
               <Div className="cs-footer_item">
                 <Newsletter
                   title="Subscribe"
-                  subtitle="At vero eos et accusamus et iusto odio as part dignissimos ducimus qui blandit."
-                  placeholder="example@gmail.com"
+                  subtitle="Subscribe to our newsletter and stay updated with the latest news, offers, and exciting updates!."
+                  placeholder="dani@gmail.com"
                 />
               </Div>
             </Div>
@@ -81,7 +81,7 @@ export default function Footer({ copyrightText, logoSrc, logoAlt, text }) {
       <Div className="container">
         <Div className="cs-bottom_footer">
           <Div className="cs-bottom_footer_left">
-            <Div className="cs-copyright">Copyright © 2023 innovix.</Div>
+            <Div className="cs-copyright">Copyright © 2023 ennovix.</Div>
           </Div>
           <Div className="cs-bottom_footer_right">
             <MenuWidget menuItems={copyrightLinks} variant=" cs-style2" />

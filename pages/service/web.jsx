@@ -41,7 +41,7 @@ export default function ServiceDetails() {
               <IconBox
                 icon="/images/icons/service_icon_1.svg"
                 title="Planning and Design"
-                subtitle="Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium also a doloremque laudantium, totam remain beatae vitae dictaro enim ipsam sunt explicabo."
+                subtitle="Ennovix collaborates closely with you to gather requirements, create a blueprint, and design the visual elements of the website.  Ennovix creates a roadmap for the project, ensuring an intuitive user experience and a visually appealing interface."
               />
               <Spacing lg="30" md="30" />
             </Div>
@@ -49,7 +49,7 @@ export default function ServiceDetails() {
               <IconBox
                 icon="/images/icons/service_icon_2.svg"
                 title="Development"
-                subtitle="Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium also a doloremque laudantium, totam remain beatae vitae dictaro enim ipsam sunt explicabo."
+                subtitle="Ennovix translates the planning and design concepts into a fully functional website. Skilled developers use programming languages, frameworks, and databases to build the front-end and back-end components of the website. "
               />
               <Spacing lg="30" md="30" />
             </Div>
@@ -57,7 +57,7 @@ export default function ServiceDetails() {
               <IconBox
                 icon="/images/icons/service_icon_3.svg"
                 title="Deployment"
-                subtitle="Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium also a doloremque laudantium, totam remain beatae vitae dictaro enim ipsam sunt explicabo."
+                subtitle="where Ennovix takes the completed website and makes it live and accessible to the intended audience. During deployment, Ennovix sets up the hosting environment, configures necessary settings, and ensures the website is ready to go live."
               />
               <Spacing lg="30" md="30" />
             </Div>
@@ -67,13 +67,14 @@ export default function ServiceDetails() {
         <Div className="container">
           <Div className="row align-items-center">
             <Div className="col-xl-5 col-lg-6">
-              <Div className="cs-radius_15 cs-shine_hover_1">
+            <Div className="cs-radius_15 cs-shine_hover_1">
                 <img
                   src="/images/web_development.png"
                   alt="Service"
                   className="cs-radius_15 w-100"
                 />
               </Div>
+            
               <Spacing lg="0" md="40" />
             </Div>
             <Div className="col-lg-6 offset-xl-1">
@@ -102,10 +103,30 @@ export default function ServiceDetails() {
               <h2 className="cs-font_50 cs-m0">Why Choose Ennovix?</h2>
               <Spacing lg="35" md="30" />
               <p>
-                WE are creative and can help you create a website that is unique
-                and reflects your brand. we are always looking for new ways to
-                use technology to create innovative and visually appealing
-                websites.And we are alyw
+                1 Responsive and Mobile Optimization:<br/>
+              In today's mobile-driven world, having a responsive website is crucial.
+               Ennovix ensures that your website is fully optimized for various devices 
+               and screen sizes, providing a seamless experience across desktops, tablets, and smartphones.
+               A responsive website not only enhances user experience but also improves search engine rankings,
+               helping you reach a wider audience.<br/>
+               2.SEO-Friendly Approach: <br/>
+                We understand the importance of search engine optimization (SEO) 
+                in driving organic traffic to your website. Our team incorporates 
+                SEO best practices during the development process, ensuring that your
+                 website is optimized for search engines. We focus on factors like site structure, 
+                 page loading speed, meta tags, and keyword optimization to improve your website's
+                  visibility and rankings in search engine results. <br/>
+                3.Scalability and Future-Proofing:<br/>
+                 As your business grows, your website needs to grow with it.
+                 Ennovix builds scalable websites that can easily accommodate
+                 your evolving needs. We use flexible frameworks and technologies 
+                 that allow for future expansion and integration of new features or functionalities.
+                 Our goal is to provide you with a website that can adapt and scale as your business expands.<br/>
+                 Choosing Ennovix for your website development means partnering with a team of experts 
+                 who are dedicated to creating a customized, user-friendly, and future-proof website
+                  that helps you achieve your business objectives. Contact us today to discuss your website needs and let us bring your vision to life.
+
+
               </p>
             </Div>
           </Div>

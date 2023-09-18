@@ -82,10 +82,12 @@ export default function ServiceDetails() {
               </h2>
               <Spacing lg="50" md="30" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut
-                labore voluptas provident consequuntur neque accusantium vitae
-                quod possimus tempore eius ipsum id non ratione rerum saepe
-                laborum, fuga eveniet ad.
+              Graphics design can benefit you in several ways:
+              Visual Communication: Graphics design enables effective visual communication.
+             By using various design elements such as typography, colors, images, and illustrations
+            , graphics design helps convey messages, ideas, and information in a visually appealing 
+             and easily understandable manner. Well-designed graphics can enhance comprehension, grab attention, 
+             and leave a lasting impact on viewers.
               </p>
               <h2 className="cs-font_50 cs-m0">Why Choose Ennovix?</h2>
               <Spacing lg="35" md="30" />
