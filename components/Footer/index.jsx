@@ -39,6 +39,10 @@ export default function Footer({ copyrightText, logoSrc, logoAlt, text }) {
       title: "Branding",
       href: "/service/branding",
     },
+    {
+      title: "Graphics Design",
+      href: "/service/graphics_design",
+    },
   ];
 
   return (

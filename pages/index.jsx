@@ -91,8 +91,8 @@ export default function Home() {
           <Spacing lg="85" md="45" />
           <TeamSlider />
         </Div>
-        <Spacing lg="150" md="80" />
-        {/* End Team Section */}
+        <Spacing lg="150" md="80" /> 
+        {/* End Team Section */} 
 
 
         {/* Start Portfolio Section */}
