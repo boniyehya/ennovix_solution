@@ -108,14 +108,14 @@ export default function ServiceDetails() {
                and screen sizes, providing a seamless experience across desktops, tablets, and smartphones.
                A responsive website not only enhances user experience but also improves search engine rankings,
                helping you reach a wider audience.<br/>
-               2.SEO-Friendly Approach: <br/>
+               2. SEO-Friendly Approach: <br/>
                 We understand the importance of search engine optimization (SEO) 
                 in driving organic traffic to your website. Our team incorporates 
                 SEO best practices during the development process, ensuring that your
                  website is optimized for search engines. We focus on factors like site structure, 
                  page loading speed, meta tags, and keyword optimization to improve your website's
                   visibility and rankings in search engine results. <br/>
-                3.Scalability and Future-Proofing:<br/>
+                3. Scalability and Future-Proofing:<br/>
                  As your business grows, your website needs to grow with it.
                  Ennovix builds scalable websites that can easily accommodate
                  your evolving needs. We use flexible frameworks and technologies 

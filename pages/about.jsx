@@ -34,8 +34,11 @@ export default function About() {
     <>
       <Head>
         <title>Quality promised services - ENNOVIX</title>
-        <meta name="description" content="Quality promised services - ENNOVIX" />
-        <link rel="icon" href="/favicon.jpg" type="image/jpg" /> 
+        <meta
+          name="description"
+          content="Quality promised services - ENNOVIX"
+        />
+        <link rel="icon" href="/favicon.jpg" type="image/jpg" />
       </Head>
       <Layout>
         {/* Start Page Heading Section */}
@@ -52,7 +55,8 @@ export default function About() {
           <Div className="row">
             <Div className="col-xl-5 col-lg-7">
               <SectionHeading
-                title=" Elevating Your Digital Presence for Success"
+                title="Welcome to Ennovix your trusted partner in technology
+                solutions."
                 subtitle="About Our Company"
               >
                 <Spacing lg="30" md="20" />
@@ -74,20 +78,57 @@ export default function About() {
                  stunning but also highly functional and user-friendly. <br/>
                  
 
+
+                  At Ennovix, we are passionate about leveraging cutting-edge
+                  technologies to drive digital transformation and empower
+                  businesses to thrive in today's fast-paced world.
+                  <br />
+                  As a technology company, we offer a comprehensive range of
+                  services to meet the diverse needs of our clients. From web
+                  and app development to graphics design, UI/UX development,
+                  branding, network installation, and digital marketing, our
+                  talented team of experts is dedicated to delivering innovative
+                  solutions that exceed expectations. <br />
                 </p>
-                <Spacing lg="30" md="30" />
+                <Spacing lg="15" md="30" />
                 <Div className="cs-separator cs-accent_bg"></Div>
-                <Spacing lg="25" md="40" />
+                <Spacing lg="15" md="30" />
               </SectionHeading>
             </Div>
             <Div className="col-lg-5 offset-xl-2">
+              <Spacing lg="10" md="40" />
               <img
+
                 src="/images/abt.png"
+
+                src="/images/about_us.png"
+
                 alt="About"
                 className="w-100 cs-radius_15"
               />
               <Spacing lg="25" md="25" />
             </Div>
+            <p>
+              With a focus on user-centric design and state-of-the-art
+              technology, we create seamless digital experiences that captivate
+              your audience and drive engagement. Our team of skilled
+              developers, designers, and marketers stays up-to-date with the
+              latest industry trends and best practices, enabling us to deliver
+              solutions that are not only visually stunning but also highly
+              functional and user-friendly. <br />
+              At Ennovix, we believe in building long-term partnerships. Our
+              goal is to become an extension of your team, supporting you in
+              achieving your business objectives and staying ahead of the
+              competition. We pride ourselves on our agility, flexibility, and
+              ability to adapt to your evolving needs, ensuring that our
+              solutions continue to deliver value as your business grows.
+              <br />
+              We invite you to explore the possibilities with Ennovix and
+              experience the power of technology for your business. Contact us
+              today to discuss how we can collaborate to drive your digital
+              success.
+            </p>
+
             <Div className="col-lg-7">
               <img
                 src="/images/ab.png"
@@ -150,19 +191,21 @@ export default function About() {
               >
                 <Spacing lg="30" md="20" />
                 <p className="cs-m0">
-                What sets us apart is our commitment to excellence and client
-                satisfaction. We take the time to truly understand your business
-                objectives, challenges, and aspirations, allowing us to tailor our solutions
-                to your specific needs. Our collaborative approach ensures that we work
-                closely with you throughout the project, providing transparent
-                communication, regular updates, and a focus on delivering measurable results.
+                  What sets us apart is our commitment to excellence and client
+                  satisfaction. We take the time to truly understand your
+                  business objectives, challenges, and aspirations, allowing us
+                  to tailor our solutions to your specific needs. Our
+                  collaborative approach ensures that we work closely with you
+                  throughout the project, providing transparent communication,
+                  regular updates, and a focus on delivering measurable results.
                 </p>
                 <Spacing lg="15" md="15" />
                 <p className="cs-m0">
-                When you choose Ennovix, you are choosing a reliable partner who is
-                committed to your success, delivers innovative solutions, and provides
-                exceptional customer service. Contact us today to embark on a
-                technology journey that empowers your business for growth and achievement.
+                  When you choose Ennovix, you are choosing a reliable partner
+                  who is committed to your success, delivers innovative
+                  solutions, and provides exceptional customer service. Contact
+                  us today to embark on a technology journey that empowers your
+                  business for growth and achievement.
                 </p>
                 <Spacing lg="30" md="30" />
                 <Div className="cs-separator cs-accent_bg"></Div>
@@ -172,8 +215,6 @@ export default function About() {
           </Div>
         </Div>
         {/* End Why Choose Section */}
-
-     
 
         {/* Start CTA Section */}
         <Spacing lg="150" md="80" />

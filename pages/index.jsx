@@ -45,7 +45,7 @@ export default function Home() {
       <Layout>
         {/* Start Hero Section */}
         <Hero
-          title="Ennovix: Where Creativity <br/>Meets Technologyy"
+          title="Ennovix: Where Creativity <br/>Meets Technology"
           subtitle="We deliver best problem solving solution for our client and provide finest finishing product in present and upcoming future."
           btnText="Get Us"
           btnLink="/contact"
