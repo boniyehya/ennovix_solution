@@ -78,7 +78,52 @@ export default function Home() {
           {/* services={context.services} */}
 
         </Div>
-        {/* End Services Section */}
+        {/* End Services Section */} 
+         {/* Start Why Choose Section */}
+         <Spacing lg="100" md="80" />
+        <Div className="container">
+          <Div className="row">
+            <Div className="col-xl-5 col-lg-6">
+              <Div className="cs-image_layer cs-style1">
+                <Div className="cs-image_layer_in">
+                  <img
+                    src="/images/about_img_4.png"
+                    alt="About"
+                    className="w-100 cs-radius_15"
+                  />
+                </Div>
+              </Div>
+              <Spacing lg="0" md="40" />
+            </Div>
+            <Div className="col-xl-5 offset-xl-1 col-lg-6">
+              <SectionHeading
+                title="Helping Your Success Through Digital"
+                subtitle="Why Choose Us"
+              >
+                <Spacing lg="30" md="20" />
+                <p className="cs-m0">
+                What sets us apart is our commitment to excellence and client
+                satisfaction. We take the time to truly understand your business
+                objectives, challenges, and aspirations, allowing us to tailor our solutions
+                to your specific needs. Our collaborative approach ensures that we work
+                closely with you throughout the project, providing transparent
+                communication, regular updates, and a focus on delivering measurable results.
+                </p>
+                <Spacing lg="15" md="15" />
+                <p className="cs-m0">
+                When you choose Ennovix, you are choosing a reliable partner who is
+                committed to your success, delivers innovative solutions, and provides
+                exceptional customer service. Contact us today to embark on a
+                technology journey that empowers your business for growth and achievement.
+                </p>
+                <Spacing lg="30" md="30" />
+                <Div className="cs-separator cs-accent_bg"></Div>
+                <Spacing lg="25" md="0" />
+              </SectionHeading>
+            </Div>
+          </Div>
+        </Div>
+        {/* End Why Choose Section */}
 
         {/* Start Team Section */}
         <Spacing lg="145" md="80" />
